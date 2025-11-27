@@ -24,7 +24,7 @@ Website monitoring kendaraan berbaris maps
 ## ⚙️ Installation & 🚀 Usage 
 ##### Clone Project
 ```
-git clone 
+git clone https://github.com/ASNProject/vehicle-maps-web.git
 ```
 <b > Jika menggunakan xampp/ Windows, download file dan simpan di dalam C:/xampp/htdocs</b>
 
