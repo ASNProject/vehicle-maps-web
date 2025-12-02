@@ -16,8 +16,12 @@ class VehicleMaps extends Model
         'front_right',
         'rear_left',
         'rear_right',
-        'status',
+        'status_front_left',
+        'status_front_right',
+        'status_rear_left',
+        'status_rear_right',
         'latitude',
         'longitude',
+        'speed',
     ];
 }
